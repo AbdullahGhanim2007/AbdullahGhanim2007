@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ghanim</h1>
 <h3 align="center">I am an android developer</h3>
 
-- 🌱 I’m currently learning **FireBase**
+- 🌱 I’m currently learning **Unity**
 
-- 💬 Ask me about **Java,Kotlin,XML,Firebase**
+- 💬 Ask me about **Java,Kotlin,XML,C#**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
